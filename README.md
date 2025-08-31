@@ -18,4 +18,4 @@ This was my first web development project. I built it to learn the basics of HTM
 PS:They are teaching me these topics now.
 
 ---
-Feel free to use, modify, or share this project!
+Feel free to use, modify or share this project!
