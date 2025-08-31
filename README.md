@@ -14,7 +14,7 @@ This is a simple Body Mass Index (BMI) Calculator web application built using HT
 3. Click "Check BMI" to see your BMI value and health status.
 
 ## About
-This was my first web development project. I built it to learn the basics of HTML, CSS and JavaScript and to create a useful tool for calculating BMI.
+This was my first web development project. I built it to learn the basics of HTML, CSS and JavaScript and to create a useful tool for calculating BMI.Found this code after some intense scouring.
 
 ---
 Feel free to use, modify, or share this project!
