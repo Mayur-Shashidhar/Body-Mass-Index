@@ -15,6 +15,7 @@ This is a simple Body Mass Index (BMI) Calculator web application built using HT
 
 ## About
 This was my first web development project. I built it to learn the basics of HTML, CSS and JavaScript and to create a useful tool for calculating BMI.Found these codes after some intense scouring.
+PS:They are teaching me these topics now.
 
 ---
 Feel free to use, modify, or share this project!
